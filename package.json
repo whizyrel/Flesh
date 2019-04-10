@@ -1,0 +1,26 @@
+{
+  "name": "flesh-options",
+  "version": "1.0.0",
+  "description": "creates monogdb {$set: options} out of an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whizyrel/Flesh.git"
+  },
+  "keywords": [
+    "array",
+    "transform",
+    "options",
+    "mongodb",
+    "$set"
+  ],
+  "author": "Israel O.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whizyrel/Flesh/issues"
+  },
+  "homepage": "https://github.com/whizyrel/Flesh#readme"
+}
