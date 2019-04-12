@@ -2,7 +2,7 @@
   "name": "flesh-options",
   "version": "1.0.0",
   "description": "creates monogdb {$set: options} out of an array",
-  "main": "index.js",
+  "main": "flesh-options.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
