@@ -1,6 +1,6 @@
 {
   "name": "flesh-options",
-  "version": "1.0.0",
+  "version": "1.0.1-alpha.0",
   "description": "creates monogdb {$set: options} out of an array",
   "main": "flesh-options.js",
   "scripts": {
